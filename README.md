@@ -3,4 +3,6 @@ An implementation of MLP Neural Network using plain numpy, with backpropagation,
 
 Made during Computational Intelligence Methods in Data Analysis course at Faculty of Mathematics and Information Science, Warsaw University of Technology. The notebook is a solution for one of the tasks during the course.
 
+The solution is tested on artifically created sample data
+
 Author: Michał Tomczyk
